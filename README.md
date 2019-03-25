@@ -1,2 +1,2 @@
-# Database-Language-
-Python database query script for issue tracking and support system. the script helps to identify the sql database and execute the necessary queries...
+# MySQL
+Python scripts for MySQL Database
